@@ -4,7 +4,9 @@ body {
   text-align: center;
   color: #343a40;
   font-size: 22px;
+  overflow:hidden;
 }
+
 
 h1 {
   font-family: 'Poppins', sans-serif;
@@ -32,3 +34,4 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+
